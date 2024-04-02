@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on VIUbyHUB Automation Testing<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with learning React through projects<br>🌱 I’m currently learning React/Node JS<br>💬 Ask me about anything<br>⚡ Fun fact - I love electronic music
+🔭 I’m currently working on VIUbyHUB Automation Testing<br><br>🤝 I’m looking for help with learning React through projects<br>🌱 I’m currently learning React/Node JS<br>💬 Ask me about anything<br>⚡ Fun fact - I love electronic music
 
 
 ## 🌐 Socials:
